@@ -1,16 +1,13 @@
 # pokemon_app
 
-A new Flutter project.
+# first page you can see all list pokemon and can click to see detail pokemon
 
-## Getting Started
+# if you click view Team you can see your team pokemon if you don't create just create team first
 
-This project is a starting point for a Flutter application.
+# in right button on app bar you can click to create team and member pokemon in 1 - 6 member and can't choose the same pokemon
 
-A few resources to get you started if this is your first Flutter project:
+# and you can see list team in second page
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# and i don't create test widget because i no have time in your length sorry about that
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# thankyou so much For a good opportunity
